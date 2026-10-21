@@ -20,3 +20,7 @@
 Aprendí: leer y escribir archivos y comparar valores con and/or/not.
 Me trabó: Entender el porqué se abren o llaman archivos
 Sigue: mini proyecto de calculadora de costo de techo.
+## Día 5 — 20 oct 2026
+Aprendí: input()` siempre devuelve texto, así que hay que convertirlo con `float()` y guardarlo en una variable. Usé diccionarios para los costos por square, listas para comparar materiales, comparadores que dan True/False y f-strings para el resumen.
+Me trabó: quise pedir largo y ancho en un solo `input()` (se necesita uno por dato) y metí una asignación dentro de `round()` (primero se calcula, luego se redondea y al final se guarda). También tuve que convertir pies² a squares (÷100) para que el precio cuadrara con cómo se cotiza en la vida real.
+Sigue: jue 22 · Assessment Test de la Sección 3 (lecciones 35–36), capítulo 1 de *Fundamentals of Data Engineering* y post en LinkedIn sobre este proyecto.
