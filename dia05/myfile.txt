@@ -1,0 +1,17 @@
+Hello this is a text file
+This is the second line
+This is the third line
+
+myfile= open('myfile.txt')
+myfile.seek(0)# That reset the cursor to read the file form the beggining
+myfile.read() # This will read all the lines in the file
+myfile.readlines() #This will read the text lines in the file, line by line not all together
+
+
+Reading, Writing, Appending Modes
+- mode='r' is read only
+- mode='w' is write only (Will override files or create new one)
+- mode='a' is append only (Will add on to files)
+- mode='r+' is reading and writing
+- mode='w+' is writing and reading (Overrides existing files or create a new file!)
+
