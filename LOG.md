@@ -24,3 +24,7 @@ Sigue: mini proyecto de calculadora de costo de techo.
 Aprendí: input()` siempre devuelve texto, así que hay que convertirlo con `float()` y guardarlo en una variable. Usé diccionarios para los costos por square, listas para comparar materiales, comparadores que dan True/False y f-strings para el resumen.
 Me trabó: quise pedir largo y ancho en un solo `input()` (se necesita uno por dato) y metí una asignación dentro de `round()` (primero se calcula, luego se redondea y al final se guarda). También tuve que convertir pies² a squares (÷100) para que el precio cuadrara con cómo se cotiza en la vida real.
 Sigue: jue 22 · Assessment Test de la Sección 3 (lecciones 35–36), capítulo 1 de *Fundamentals of Data Engineering* y post en LinkedIn sobre este proyecto.
+## Día 6 — 21 oct 2026
+Aprendí:Repasé la Sección 3 con el Assessment Test (lecciones 35–36): indexing, slicing, listas, diccionarios anidados y sets. También actualicé mi perfil de LinkedIn (titular, sector, Open to Work) y escribí mi primer post sobre mi cambio de carrera.
+Me trabó: sacar un valor de un diccionario anidado / recordar la sintaxis de slicing [::-1] / no alcancé a leer el capítulo 1 de FoDE
+Sigue: Sección 5 del Bootcamp: if/elif/else y bucles for (vie 23).
