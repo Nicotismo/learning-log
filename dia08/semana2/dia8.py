@@ -156,3 +156,12 @@ while x < 5:
     #This will return just 0,1 because its break it out in 2 
 
 
+areas = [1200, 850, 3100, 2000, 500, 5000]
+
+for area in areas:
+    if area <=1200:
+        print (f'{area} pies cuadrados: Small Area')
+    elif area <= 3100:
+        print (f'{area} pies cuadrados: Medium Area')
+    else:
+        print (f'{area} pies cuadrados: Big Area!')

@@ -1,0 +1,10 @@
+if, elif, else statements
+
+Syntax of a basic if statement
+if some_condition:
+    #execute some code
+elif some_other_condition:
+    #do something different
+else: 
+    #do something else
+

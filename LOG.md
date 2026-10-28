@@ -32,3 +32,11 @@ Sigue: Sección 5 del Bootcamp: if/elif/else y bucles for (vie 23).
 Aprendí: if/elif/else y for sobre listas y diccionarios.
 Me trabó: Entender bien como llamar las variables en los loop
 Sigue: while, range y operadores útiles.
+## Día 9 — 26 oct 2026
+Aprendí: range(inicio, fin, paso)` genera números sin usar `if`, por ejemplo los pares con `range(2, 21, 2)`. Un `while` necesita tres partes: valor inicial, condición para seguir y algo que la acerque a falsa. Patrón de `input` en un `while`: pedir el primer dato antes del bucle y el siguiente al final de cada vuelta. `enumerate` y `zip` entregan pares que se desempaquetan con dos variables en el `for`.
+Me trabó: escribir una condición del `while` que se vuelva falsa (con `dias <= 5` el bucle no paraba nunca). Olvidar el valor inicial (`dias = 5`) en el notebook. Usar una sola variable con `enumerate`/`zip` e imprimir tuplas. Faltaban los dos puntos después del `if`.
+Sigue: mañana, list comprehensions. El miércoles, el Statements Assessment Test.
+## Día 19 — 27 oct 2026
+- Aprendí: list comprehensions con filtro [x for x in lista if ...] y con if/else ['a' if ... else 'b' for x in lista]; in, min(), max() y sum().
+- Me trabó: el orden de las partes, y que en la comprehension no va .append() ni print(), solo el valor.
+- Sigue: Statements Assessment Test (Sección 5).
