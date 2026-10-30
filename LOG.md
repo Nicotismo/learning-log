@@ -40,7 +40,11 @@ Sigue: mañana, list comprehensions. El miércoles, el Statements Assessment Tes
 - Aprendí: list comprehensions con filtro [x for x in lista if ...] y con if/else ['a' if ... else 'b' for x in lista]; in, min(), max() y sum().
 - Me trabó: el orden de las partes, y que en la comprehension no va .append() ni print(), solo el valor.
 - Sigue: Statements Assessment Test (Sección 5).
-## Día 11 — 27 oct 2026
+## Día 11 — 28 oct 2026
 - Aprendí: .split() para recorrer palabras, len() y % para pares, FizzBuzz con if/elif/else y and, comprehensions con strings.
 - Me trabó: el orden de las condiciones en FizzBuzz y que range no incluye el número final.
 - Sigue: cerrar Sección 5 y rehacer los ejercicios difíciles de semanas 1–2.
+## Día 12 — 29 oct 2026
+- Aprendí: a hacer while con acumulador y a desempacar dos variables con enumerate, zip y .items(); que una list comprehension es un for en una línea; y la diferencia entre función (max(lista)) y método (lista.append()).
+- Me trabó: confundir max.costos con max(costos), y dónde va el .items() (en el for, no en el in).
+- Sigue: mini proyecto de techos con condicionales y bucles + LinkedIn + revisión mensual (vie 30).
