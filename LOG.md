@@ -48,3 +48,9 @@ Sigue: mañana, list comprehensions. El miércoles, el Statements Assessment Tes
 - Aprendí: a hacer while con acumulador y a desempacar dos variables con enumerate, zip y .items(); que una list comprehension es un for en una línea; y la diferencia entre función (max(lista)) y método (lista.append()).
 - Me trabó: confundir max.costos con max(costos), y dónde va el .items() (en el for, no en el in).
 - Sigue: mini proyecto de techos con condicionales y bucles + LinkedIn + revisión mensual (vie 30).
+## Día 13 — 30 oct 2026
+**Qué aprendí:** a combinar `while` + `input()` para agregar datos hasta escribir "fin", a recorrer tres listas con `zip()` y a guardar resultados con `.append()` para usar `sum()`, `max()` y `min()` al final.
+
+**Qué me trabó:** dónde poner el `.append()` y el `print` (dentro o fuera del for/if), y usar `costo` en vez de `costos` en el resumen. Aprendí que `zip()` se detiene en la lista más corta y que el while debe agregar datos y el for solo calcular.
+
+**Qué sigue:** publicar el post en LinkedIn. El lunes empiezo la Semana 3 con funciones en el Python Bootcamp.
