@@ -54,3 +54,9 @@ Sigue: mañana, list comprehensions. El miércoles, el Statements Assessment Tes
 **Qué me trabó:** dónde poner el `.append()` y el `print` (dentro o fuera del for/if), y usar `costo` en vez de `costos` en el resumen. Aprendí que `zip()` se detiene en la lista más corta y que el while debe agregar datos y el for solo calcular.
 
 **Qué sigue:** publicar el post en LinkedIn. El lunes empiezo la Semana 3 con funciones en el Python Bootcamp.
+
+## Día 14 — 09 NOV 2026
+- **Aprendí:** a crear funciones con def; return entrega el valor y print solo lo muestra; una función puede recibir lo que devuelve otra (costo_techo(area_techo(...))).
+- **Me trabó:** cuándo usar return y cuándo print; confundí función con método (las listas no tienen .max(), es max(costos)); en el while del cotizador se me olvidaron los .append().
+- **Sigue:** tuple unpacking y funciones que interactúan entre sí (Sección 6).
+
