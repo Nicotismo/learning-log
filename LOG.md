@@ -60,3 +60,7 @@ Sigue: mañana, list comprehensions. El miércoles, el Statements Assessment Tes
 - **Me trabó:** cuándo usar return y cuándo print; confundí función con método (las listas no tienen .max(), es max(costos)); en el while del cotizador se me olvidaron los .append().
 - **Sigue:** tuple unpacking y funciones que interactúan entre sí (Sección 6).
 
+## Día 15 — 10 NOV 2026
+Aprendí: la diferencia entre return y print, que una comparación ya devuelve True/False, y cómo devolver y desempaquetar una tupla.
+Me trabó: al principio, dónde poner el 120 (en la llamada, no dentro del def) y no repetir el nombre de la función en una variable.
+Sigue: el reto 6 y luego *args y **kwargs.
