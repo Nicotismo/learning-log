@@ -64,3 +64,13 @@ Sigue: mañana, list comprehensions. El miércoles, el Statements Assessment Tes
 Aprendí: la diferencia entre return y print, que una comparación ya devuelve True/False, y cómo devolver y desempaquetar una tupla.
 Me trabó: al principio, dónde poner el 120 (en la llamada, no dentro del def) y no repetir el nombre de la función en una variable.
 Sigue: el reto 6 y luego *args y **kwargs.
+
+## Día 16 · Lun 23 nov 2026
+- **Qué aprendí:** volví a armar el while con input() del cotizador. Pasé el cotizador a funciones: costo_techo() con return, categoria() con if/elif/else y resumen() con tuple unpacking (for nombre, area in clientes). Entendí que return le entrega el resultado a otra función y print solo lo muestra.
+- **Qué me trabó:** había olvidado el while después de dos semanas; que < no incluye el mismo número (4000000 < 4000000 es False); entender de dónde salía "pequeño"/"grande" (viene del return de categoria).
+- **Qué sigue:** mañana *args y **kwargs + Function Practice Exercises (Overview y Warmups).
+
+## Día 17 · mar 24 nov 2026 (versión corta, 60 min)
+- **Aprendí:** `*args` recibe muchos valores como tupla y `**kwargs` recibe valores con nombre como diccionario. Hice `suma_areas(*args)` con `sum(args)`, `techo_mas_grande(*args)` con `max(args)` y `ficha_cliente(**kwargs)` con `for clave, valor in kwargs.items()`.
+- **Me trabó:** en `ficha_cliente` imprimí `kwargs` entero en vez de la clave y el valor de cada vuelta.
+- **Sigue:** video de Warmups, `cotizar(material, *areas)` y el reto `pares(*args)`; después los Function Practice Exercises nivel 1 y 2.
