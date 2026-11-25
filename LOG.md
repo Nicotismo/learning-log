@@ -74,3 +74,9 @@ Sigue: el reto 6 y luego *args y **kwargs.
 - **Aprendí:** `*args` recibe muchos valores como tupla y `**kwargs` recibe valores con nombre como diccionario. Hice `suma_areas(*args)` con `sum(args)`, `techo_mas_grande(*args)` con `max(args)` y `ficha_cliente(**kwargs)` con `for clave, valor in kwargs.items()`.
 - **Me trabó:** en `ficha_cliente` imprimí `kwargs` entero en vez de la clave y el valor de cada vuelta.
 - **Sigue:** video de Warmups, `cotizar(material, *areas)` y el reto `pares(*args)`; después los Function Practice Exercises nivel 1 y 2.
+
+## Día 18 · mié 25 nov 2026
+
+- **Aprendí:** completé los quick function exercises #1–#10 de la Sección 6 (incluido pick evens y skyline con enumerate y .upper()/.lower()). En VS Code hice cotizar(material, *areas), es_grande(area) y contar_grandes(*areas).
+- **Me trabó:** usé args % 2 sobre la tupla completa en vez de recorrer cada número con un for; y dejé .append() vacío.
+- **Sigue:** lección 56 (si no la vi) y 57–59, Function Practice Exercises (soluciones y niveles 1 y 2).
