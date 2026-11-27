@@ -80,3 +80,8 @@ Sigue: el reto 6 y luego *args y **kwargs.
 - **Aprendí:** completé los quick function exercises #1–#10 de la Sección 6 (incluido pick evens y skyline con enumerate y .upper()/.lower()). En VS Code hice cotizar(material, *areas), es_grande(area) y contar_grandes(*areas).
 - **Me trabó:** usé args % 2 sobre la tupla completa en vez de recorrer cada número con un for; y dejé .append() vacío.
 - **Sigue:** lección 56 (si no la vi) y 57–59, Function Practice Exercises (soluciones y niveles 1 y 2).
+
+## Día 19 · Jue 26 nov 2026 (sesión de 1 h)
+- **Qué aprendí:** Function Practice Warmup (lección 56): `lesser_of_two_evens`, `animal_crackers` y `makes_twenty`. `min()` y `max()` son funciones y reciben los valores separados por coma. Con `palabras[0][0]` el primer índice elige la palabra y el segundo la letra, y los dos empiezan en 0. `and`/`or` sirven para preguntas de True/False, no para juntar valores. Un `return` con una comparación ya devuelve True o False sin necesitar `if`.
+- **Qué me trabó:** usé `return a and b` y `max(a or b)` en vez de `min(a, b)` y `max(a, b)`. También me confundí con los índices de `palabras[0][1]` y `palabras[1][0]`.
+- **Qué sigue:** lección 57 (Solutions) si no la terminé, luego lección 58, Level 1 (old_macdonald, master_yoda, almost_there).
